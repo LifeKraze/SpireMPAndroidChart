@@ -11,23 +11,6 @@ The **experimental** branch might contain new features that are still buggy. It 
 
 Forks, pull-requests or any other forms of contribution are **always welcome**.
 
-Donations
------
-
-If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, **feel free to donate**. Your donation is highly appreciated.
-
-PayPal
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EGBENAC5XBCKS)
-
-Gittip
-
-<a href="https://www.gittip.com/PhilJay/">
-  <img alt="Support via Gittip" src="https://rawgithub.com/twolfson/gittip-badge/0.2.0/dist/gittip.png"/>
-</a>
-
-[![Gratipay](http://img.shields.io/gratipay/PhilJay.svg)](https://gratipay.com/PhilJay)
-
 Demo
 -----
 
